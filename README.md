@@ -1,8 +1,10 @@
 # Algorithms
 Dive into this GitHub repository to find the complete source code and in-depth explanations for each algorithm discussed in the blog series. 🚀💻 
+
 Each folder is packed with insights to help you master these essential coding challenges! 🧠📖
 
 The problems' list:
+
 1	[Two Sum]([url](https://medium.com/@reza.shokrzad/two-sum-algorithm-from-simple-to-optimized-solution-in-python-2350513bb4ed))
 
 2	Reverse Integer
