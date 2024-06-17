@@ -7,13 +7,13 @@ The problems' list:
 
 1	[Two Sum]([url](https://medium.com/@reza.shokrzad/two-sum-algorithm-from-simple-to-optimized-solution-in-python-2350513bb4ed))
 
-2	Reverse Integer
+2	[Reverse Integer]([url](https://medium.com/me/stats/post/8e6d6818c2bd))
 
-3	Palindrome Number 
+3	[Palindrome Number ]([url](https://medium.com/me/stats/post/aabffd0c5713))
 
-4	Roman to Integer
+4	[Roman to Integer]([url](https://medium.com/@reza.shokrzad/roman-to-integer-deciphering-ancient-numerals-with-modern-code-17bcd4417541)T)
 
-5	Longest Common Prefix 
+5	[Longest Common Prefix]([url](https://medium.com/@reza.shokrzad/decoding-commonalities-finding-the-longest-common-prefix-in-strings-python-code-ff1e496d32be)) 
 
 6	Valid Parentheses 
 
