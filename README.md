@@ -5,7 +5,7 @@ Each folder is packed with insights to help you master these essential coding ch
 
 The problems' list:
 
-1	[Two Sum](https://medium.com/@reza.shokrzad/two-sum-algorithm-from-simple-to-optimized-solution-in-python-2350513bb4ed)
+1	[Two Sum]((https://medium.com/@reza.shokrzad/two-sum-algorithm-from-simple-to-optimized-solution-in-python-2350513bb4ed)T)
 
 2	[Reverse Integer](https://medium.com/me/stats/post/8e6d6818c2bd)
 
