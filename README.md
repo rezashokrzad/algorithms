@@ -15,9 +15,9 @@ The problems' list:
 
 5	[Longest Common Prefix](https://medium.com/@reza.shokrzad/decoding-commonalities-finding-the-longest-common-prefix-in-strings-python-code-ff1e496d32be)
 
-6	Valid Parentheses 
+6	[Valid Parentheses](https://medium.com/@reza.shokrzad/cracking-the-code-understanding-the-valid-parentheses-problem-f0d22c3314a0)
 
-7	Merge Two Sorted Lists
+7	[Merge Two Sorted Lists](https://medium.com/@reza.shokrzad/merge-two-sorted-lists-combining-ordered-data-efficiently-3f9fb5bda028)
 
 8	Remove Duplicates from Sorted Array 
 
