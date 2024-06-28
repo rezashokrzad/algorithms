@@ -19,7 +19,7 @@ The problems' list:
 
 7	[Merge Two Sorted Lists](https://medium.com/@reza.shokrzad/merge-two-sorted-lists-combining-ordered-data-efficiently-3f9fb5bda028)
 
-8	Remove Duplicates from Sorted Array 
+8	[Remove Duplicates from Sorted Array](https://medium.com/@reza.shokrzad/optimizing-storage-how-to-remove-duplicates-in-place-python-code-4cca68e96d15)
 
 9	Remove Element
 
