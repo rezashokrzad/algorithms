@@ -21,11 +21,11 @@ The problems' list:
 
 8	[Remove Duplicates from Sorted Array](https://medium.com/@reza.shokrzad/optimizing-storage-how-to-remove-duplicates-in-place-python-code-4cca68e96d15)
 
-9	Remove Element
+9	[Optimized In-Place Element Removal from Arrays](https://medium.com/@reza.shokrzad/optimized-in-place-element-removal-from-arrays-using-python-00de7f595038)
 
-10	Implement strStr() 
+10	[Find the Index of the First Occurrence in a String](https://medium.com/@reza.shokrzad/string-search-simplified-detecting-substring-positions-a9a5b6496f7c)
 
-11	Search Insert Position 
+11	[Search Insert Position](https://medium.com/@reza.shokrzad/binary-search-in-action-insert-position-determination-0872067f3086)
 
 12	Maximum Subarray 
 
